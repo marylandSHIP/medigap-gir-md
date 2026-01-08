@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "navTitle": "Maryland Medicare Supplement GIR",
+    "generated": "2026-01-01T15:36:52",
+    "notes": "Slides are Markdown files with optional frontmatter. Raw HTML in Markdown is supported for advanced layouts."
+  },
+  "chapters": [
+    {
+      "id": "home",
+      "title": "Welcome",
+      "slides": [
+        {
+          "file": "slides/home/title.md"
+        },
+        {
+          "file": "slides/home/objectives.md"
+        }
+      ],
+      "folder": "home"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "slides": [
+        {
+          "file": "slides/introduction/changing-medigap.md"
+        },
+        {
+          "file": "slides/introduction/gir-defined.md"
+        },
+        {
+          "file": "slides/introduction/legal-framework.md"
+        },
+        {
+          "file": "slides/introduction/md-enhancements.md"
+        },
+        {
+          "file": "slides/introduction/insurer-requirements.md"
+        },
+        {
+          "file": "slides/introduction/limitations.md"
+        }
+      ],
+      "folder": "introduction"
+    },
+    {
+      "id": "triggers",
+      "title": "GIR Triggers",
+      "slides": [
+        {
+          "file": "slides/triggers/qualifying-events.md"
+        },
+        {
+          "file": "slides/triggers/coverage-loss.md"
+        },
+        {
+          "file": "slides/triggers/plan-problems.md"
+        },
+        {
+          "file": "slides/triggers/trial-rights.md"
+        },
+        {
+          "file": "slides/triggers/for-cause.md"
+        },
+        {
+          "file": "slides/triggers/other.md"
+        },
+        {
+          "file": "slides/triggers/quick-reference.md"
+        }
+      ],
+      "folder": "triggers"
+    },
+    {
+      "id": "examples-gir-applies",
+      "title": "Scenarios: GIR Applies",
+      "slides": [
+        {
+          "file": "slides/examples-gir-applies/retiree-loses-coverage.md"
+        },
+        {
+          "file": "slides/examples-gir-applies/ma-plan-leaves.md"
+        },
+        {
+          "file": "slides/examples-gir-applies/trial-right-ma-first-time.md"
+        },
+        {
+          "file": "slides/examples-gir-applies/trial-right-medigap-to-ma.md"
+        },
+        {
+          "file": "slides/examples-gir-applies/insurer-bankruptcy.md"
+        }
+      ],
+      "folder": "examples-gir-applies"
+    },
+    {
+      "id": "examples-no-gir",
+      "title": "Scenarios: No GIR",
+      "slides": [
+        {
+          "file": "slides/examples-no-gir/after-12-month-window.md"
+        },
+        {
+          "file": "slides/examples-no-gir/non-payment.md"
+        },
+        {
+          "file": "slides/examples-no-gir/dissastisfaction-only.md"
+        },
+        {
+          "file": "slides/examples-no-gir/missed-63-day-deadline.md"
+        }
+      ],
+      "folder": "examples-no-gir"
+    },
+    {
+      "id": "takeaways",
+      "title": "Key Takeaways",
+      "slides": [
+        {
+          "file": "slides/takeaways/takeaway-summary.md"
+        }
+      ],
+      "folder": "takeaways"
+    },
+    {
+      "id": "appendix",
+      "title": "Appendix",
+      "slides": [
+        {
+          "file": "slides/appendix/birthday-rule-plans.md"
+        },
+        {
+          "file": "slides/appendix/citation-map.md"
+        }
+      ],
+      "folder": "appendix"
+    }
+  ]
+}
